@@ -6,9 +6,8 @@
 
 
 <div>
-  [![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pietrodessotti)](https://github.com/pietrodessotti/github-readme-stats)
   <a href="https://github.com/pietrodessotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrodessotti&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrodessotti&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrodessotti&layout=compact&langs_count=8&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
