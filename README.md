@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Pietro Dessotti seja bem vindo(a) ao meu Github!
 
 - 🔭 I'm looking for an internship
-- 🌱 I’m currently learning JAVASCRIPT | REACT 
+- 🌱 I’m currently learning JAVASCRIPT | SASS
 - 📫 How to reach me: linkedin.com/in/pietro-dessotti/
 
 
