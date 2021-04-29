@@ -15,6 +15,10 @@
   <img align="center" alt="Pietro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pietro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pietro-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Pietro-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/c#-original.svg">
+  <img align="center" alt="Pietro-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/dart-original.svg">
+  <img align="center" alt="Pietro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/java-original.svg">
+  
 </div>
   
   ##
