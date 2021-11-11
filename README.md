@@ -1,7 +1,7 @@
 ## Olá, Meu nome é Pietro Dessotti seja bem vindo(a) ao meu Github!
 
-- 🔭 I'm looking for an internship
-- 🌱 I’m currently learning JAVASCRIPT | REACT | SASS
+- 🔭 I'm Software Enginner at D1 Smarkio
+- 🌱 I’m working currently with REACT | Typescript | Next | Redux saga | Context | StyledComponents
 - 📫 How to reach me: linkedin.com/in/pietro-dessotti/
 
 
