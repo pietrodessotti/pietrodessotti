@@ -36,9 +36,6 @@
 📡 LINKS
 ├─ GitHub: github.com/pietrodessotti
 └─ LinkedIn: linkedin.com/in/pietro-dessotti
-
-[ STATUS: ONLINE ▓▓▓▓▓▓▓▓░░░ 85% ]
-
 ```
 
 ---
@@ -54,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40" />
 </div>
 
 ---
