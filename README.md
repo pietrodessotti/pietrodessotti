@@ -1,25 +1,44 @@
-
-<p align="center">
-  <img src="https://github.com/pietrodessotti/pietrodessotti/blob/main/pietro-dessotti.png" alt="Pietro Dessotti Banner" />
-</p>
-
 <h1 align="center">⚡ Pietro H. M. Dessotti ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Full-stack+Dev+%7C+React%2C+Node%2C+TypeScript;Code.+Coffee.+Repeat.;Let's+build+something+epic!+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Full-stack+Dev+%7C+React%2C+Node%2C+TypeScript;Code.+Coffee.+Repeat.;Let's+build+something+epic!+%F0%9F%94%A5" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-```ts
-const pietro = {
-  role: 'Front-end Developer at Zenvia',
-  stack: ['React', 'TypeScript', 'Next.js', 'Redux Saga', 'Styled-components'],
-  currentlyLearning: ['AI tools', 'Flutter', 'Monorepo'],
-  caffeineLevel: '☕☕☕☕☕',
-  goal: 'To code something that impacts the world'
-}
+```
+[ SYSTEM BOOTING... ✔️ ]
+------------------------------
+👨‍💻 Name: Pietro H. M. Dessotti
+🎯 Role: Full-Stack JavaScript Developer
+🏢 Company: Zenvia
+
+📦 Frontend Stack:
+├─ React.js
+├─ Next.js
+├─ TypeScript
+├─ Redux Saga
+└─ Tailwind
+
+🛠 Backend Stack:
+├─ Node.js (learning)
+├─ Express.js
+└─ REST APIs
+
+🧠 Currently Learning:
+├─ AI Tools
+└─ Backend Architecture
+
+☕ Caffeine Level: MAXED ☕☕☕☕☕  
+🚀 Mission: Code solutions that matter
+
+📡 LINKS
+├─ GitHub: github.com/pietrodessotti
+└─ LinkedIn: linkedin.com/in/pietro-dessotti
+
+[ STATUS: ONLINE ▓▓▓▓▓▓▓▓░░░ 85% ]
+
 ```
 
 ---
@@ -50,16 +69,14 @@ const pietro = {
 
 ## 💡 Commits Activity
 
+---
+
+## 🧠 Matrix Mode: Activity Log
+
 ```diff
-+ -----------------------------
-+  DAILY HACKING TRACKING MAP +
-+ -----------------------------
-! commits:
-! ⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢⬢
-! ░░⛓️░░⛓️⛓️░⛓️⛓️░░⛓️⛓️⛓️⛓️░⛓️░⛓️
-! ⛓️░⛓️⛓️░⛓️⛓️░⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️
-! ⛓️⛓️⛓️⛓️⛓️░⛓️⛓️⛓️⛓️⛓️░⛓️⛓️⛓️
-+ -----------------------------
++ System Online...
++ Tracking Daily Commits...
++ Active: YES
 ```
 
 ---
