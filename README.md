@@ -11,7 +11,7 @@
 [ SYSTEM BOOTING... ✔️ ]
 ------------------------------
 👨‍💻 Name: Pietro H. M. Dessotti
-🎯 Role: Full-Stack JavaScript Developer
+🎯 Role: Full-Stack Software Engineer
 🏢 Company: Zenvia
 
 📦 Frontend Stack:
