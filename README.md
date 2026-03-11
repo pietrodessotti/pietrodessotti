@@ -1,11 +1,15 @@
 <h1 align="center">⚡ Pietro Dessotti ⚡</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Senior+Frontend+Engineer;React+•+TypeScript+•+Frontend+Architecture;Design+Systems+•+Microfrontends;Building+scalable+web+applications" />
+</p>
+
+<p align="center">
 Senior Frontend Engineer • Frontend Architecture • Design Systems
 </p>
 
 <p align="center">
-Building scalable web applications and modern frontend architectures.
+Focused on scalability, maintainability, and developer experience.
 </p>
 
 <p align="center">
@@ -33,7 +37,7 @@ Specialized in:
 - Design Systems
 - Scalable React Applications
 
-Strong experience building **maintainable UI systems used in production environments**.
+Strong experience building maintainable UI systems used in production by thousands of users.
 
 ---
 
@@ -49,6 +53,7 @@ Strong experience building **maintainable UI systems used in production environm
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="40"/>
 </p>
 
 ### Backend Collaboration
