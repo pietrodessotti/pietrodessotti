@@ -1,103 +1,85 @@
-<h1 align="center">⚡ Pietro H. M. Dessotti ⚡</h1>
+<h1 align="center">⚡ Pietro Dessotti ⚡</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Full-stack+Dev+%7C+React%2C+Node%2C+TypeScript;Code.+Coffee.+Repeat.;Let's+build+something+epic!+%F0%9F%94%A5" />
+Senior Frontend Engineer • Frontend Architecture • Design Systems
+</p>
+
+<p align="center">
+Building scalable web applications and modern frontend architectures.
+</p>
+
+<p align="center">
+<a href="https://pietro-dessotti.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-000?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/pietro-dessotti/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:pietrohdessotti@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-```
-[ SYSTEM BOOTING... ✔️ ]
-------------------------------
-👨‍💻 Name: Pietro H. M. Dessotti
-🎯 Role: Full-Stack Software Engineer
-🏢 Company: Zenvia
+Senior Frontend Engineer with **5+ years of experience** building **mid- to large-scale B2B applications**.
 
-📦 Frontend Stack:
-├─ React.js
-├─ Next.js
-├─ TypeScript
-├─ Redux Saga
-└─ Tailwind
+Specialized in:
 
-🛠 Backend Stack:
-├─ Node.js (learning)
-├─ Express.js
-└─ REST APIs
+- Frontend Architecture
+- Microfrontends
+- Design Systems
+- Scalable React Applications
 
-🧠 Currently Learning:
-├─ AI Tools
-└─ Backend Architecture
-
-☕ Caffeine Level: MAXED ☕☕☕☕☕  
-🚀 Mission: Code solutions that matter
-
-📡 LINKS
-├─ GitHub: github.com/pietrodessotti
-└─ LinkedIn: linkedin.com/in/pietro-dessotti
-```
+Strong experience building **maintainable UI systems used in production environments**.
 
 ---
 
-## 🚀 Skills
+# 🚀 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40" />
-</div>
+### Frontend
 
----
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
 
-## 📊 GitHub Stats
+### Backend Collaboration
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pietrodessotti&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrodessotti&layout=compact&langs_count=8&theme=radical" />
-</div>
-
----
-
-## 💡 Commits Activity
-
----
-
-## 🧠 Matrix Mode: Activity Log
-
-```diff
-+ System Online...
-+ Tracking Daily Commits...
-+ Active: YES
-```
-
----
-
-## 🔗 Let's connect
-
-<p align="center">
-  <a href="mailto:pietrohdessotti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pietro-dessotti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/pietrodessotti">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+# 🧩 Engineering Focus
 
-<p align="center"><b>#FullStack • #CodeAndCoffee • #PublicBuilds</b></p>
+- Frontend Architecture
+- Microfrontend Systems
+- Design System Development
+- Scalable Component Libraries
+- Performance Optimization
+
+---
+
+# 🌐 Portfolio
+
+You can explore my work and case studies here:
+
+👉 **https://pietro-dessotti.netlify.app/**
+
+---
+
+<p align="center">
+Building modern web applications.
+</p>
