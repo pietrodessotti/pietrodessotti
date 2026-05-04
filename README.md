@@ -81,7 +81,7 @@ Strong experience building maintainable UI systems used in production by thousan
 
 You can explore my work and case studies here:
 
-👉 **https://pietro-dessotti.netlify.app/**
+👉 **https://pietrodessotti.dev/**
 
 ---
 
